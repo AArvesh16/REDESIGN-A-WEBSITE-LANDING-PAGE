@@ -106,3 +106,7 @@ OUTPUT
 REDESIGN OF IRCTC LANDING PAGE
 
 ![Image](https://github.com/user-attachments/assets/52e224a0-1d40-46d8-a4b7-fdc3c8981391)
+
+UIUX CASE STUDY
+
+![Image](https://github.com/user-attachments/assets/0f5fc5b4-9af5-4fbc-835f-e46e835e0cd6)
