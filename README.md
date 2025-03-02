@@ -102,3 +102,7 @@ Through this project, I successfully created a clean, modern, and user-friendly 
 This case study is a strong example of my ability to analyze problems, design intuitive solutions, and implement best UX practices to improve digital products.
 
 OUTPUT
+
+REDESIGN OF IRCTC LANDING PAGE
+
+![Image](https://github.com/user-attachments/assets/52e224a0-1d40-46d8-a4b7-fdc3c8981391)
