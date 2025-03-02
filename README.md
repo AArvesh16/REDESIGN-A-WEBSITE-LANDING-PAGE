@@ -109,4 +109,4 @@ REDESIGN OF IRCTC LANDING PAGE
 
 UIUX CASE STUDY
 
-![Image](https://github.com/user-attachments/assets/0f5fc5b4-9af5-4fbc-835f-e46e835e0cd6)
+
